@@ -4,6 +4,8 @@ import { ImPointRight } from "react-icons/im";
 
 function ExperienceCard(props) {
   return (
+    <div data-aos="fade-right">
+
     <Card className="project-card-view">
       <Card.Body>
         <Card.Title style={{ fontWeight: "bold", fontSize: "1.5em" }}>
@@ -31,6 +33,7 @@ function ExperienceCard(props) {
         </Card.Text>
       </Card.Body>
     </Card>
+    </div>
   );
 }
 

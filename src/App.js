@@ -17,6 +17,8 @@ import "./style.css";
 import "./App.css";
 import "bootstrap/dist/css/bootstrap.min.css";
 import Experience from "./components/Experience/Experience";
+import Aos from "aos";
+import "aos/dist/aos.css";
 
 function App() {
   const [load, upadateLoad] = useState(true);
@@ -29,6 +31,9 @@ function App() {
     return () => clearTimeout(timer);
   }, []);
 
+  useEffect(() => {
+    Aos.init({ duration: 700, once: true });
+  }, []);
   return (
     <Router>
       <Preloader load={load} />

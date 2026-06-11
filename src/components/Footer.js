@@ -14,7 +14,6 @@ function Footer() {
   return (
     <Container fluid className="footer">
       <Row>
-      // Around line 20-30
 
 <Col md="4" className="footer-copywright">
   <h3>Designed and Developed by Parth Thakkar</h3>

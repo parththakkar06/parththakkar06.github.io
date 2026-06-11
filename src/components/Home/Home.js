@@ -30,9 +30,15 @@ function Home() {
 
               <h1 className="heading-name">
                 I'M
-                <strong className="main-name"> PARTH THAKKAR</strong>
+                <strong className="main-name"> PARTH THAKKAR</strong><br></br>
+                <span className="available-badge">
+                  ● Open to opportunities
+                </span>
               </h1>
-
+              <p className="hero-tagline">
+                I build full-stack web apps that solve real problems —
+                from cricket analytics to society management systems.
+              </p>
               <div style={{ padding: 50, textAlign: "left" }}>
                 <Type />
               </div>

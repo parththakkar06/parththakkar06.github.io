@@ -759,3 +759,23 @@ button:focus {
 .fork-btn-inner::after {
   display: none !important;
 }
+
+.hero-tagline {
+  font-size: 1.1rem;
+  color: #adb5bd;
+  animation: fadeInUp 0.8s ease 0.3s both;
+}
+@keyframes fadeInUp {
+  from { opacity: 0; transform: translateY(16px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+.available-badge {
+  display: inline-block;
+  background: rgba(29, 158, 117, 0.12);
+  color: #1D9E75;
+  border: 1px solid rgba(29, 158, 117, 0.3);
+  border-radius: 20px;
+  padding: 4px 12px;
+  font-size: 0.8rem;
+  margin-bottom: 1rem;
+}

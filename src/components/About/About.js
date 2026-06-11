@@ -10,6 +10,7 @@ import Toolstack from "./Toolstack";
 function About() {
   return (
     <>
+    <div data-aos="fade-right">
       {" "}
       <Particle />
       <Container fluid className="about-section">
@@ -50,6 +51,7 @@ function About() {
           <Github />
         </Container>
       </Container>
+      </div>
     </>
   );
 }

@@ -16,7 +16,7 @@ function ResumeNew() {
   }, []);
 
   return (
-    <div>
+    <div data-aos='zoom-in'>
       <Container fluid className="resume-section">
         <Particle />
         <Row style={{ justifyContent: "center", position: "relative" }}>

@@ -6,6 +6,7 @@ import { BsGithub } from "react-icons/bs";
 
 function ProjectCards(props) {
   return (
+    <div data-aos="zoom-in">
     <Card className="project-card-view">
       <Card.Img variant="top" src={props.imgPath} alt="card-img" />
       <Card.Body>
@@ -35,6 +36,7 @@ function ProjectCards(props) {
         )}
       </Card.Body>
     </Card>
+    </div>
   );
 }
 export default ProjectCards;

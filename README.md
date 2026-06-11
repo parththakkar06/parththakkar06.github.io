@@ -21,5 +21,5 @@ https://parththakkar06.github.io
 
 ## Contact
 
-- LinkedIn: https://linkedin.com/in/your-linkedin
+- LinkedIn: www.linkedin.com/in/parth-thakkar-258354226
 - GitHub: https://github.com/parththakkar06
