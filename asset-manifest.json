@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.3f9bec2b.css",
-    "main.js": "/static/js/main.bed87888.js",
+    "main.js": "/static/js/main.04a31a82.js",
     "static/js/453.fbc5ebc6.chunk.js": "/static/js/453.fbc5ebc6.chunk.js",
     "static/media/cricfusion.png": "/static/media/cricfusion.c697cd59b889cfb73da7.png",
     "static/media/Amenity hub.png": "/static/media/Amenity hub.9b7900e6d6eb98d08c3d.png",
     "static/media/cinepedia.png": "/static/media/cinepedia.5a53dc8c02db5abce876.png",
     "static/media/home-main.svg": "/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
     "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
-    "static/media/Parth_Thakkar_CV.pdf": "/static/media/Parth_Thakkar_CV.795a99e75d131a403b9f.pdf",
+    "static/media/Parth_Thakkar_CV.pdf": "/static/media/Parth_Thakkar_CV.d776c754c6493186bf0c.pdf",
     "static/media/avatar.svg": "/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
     "static/media/go.svg": "/static/media/go.9a9bf59ea453fc0e3ec82471b0c300ab.svg",
     "static/media/SQL.svg": "/static/media/SQL.7fd9bdcee9744b3b731709f2753c68af.svg",
@@ -42,11 +42,11 @@
     "static/media/Angular.svg": "/static/media/Angular.c08b25bfe5a2c3efdef990ab732325b5.svg",
     "static/media/Spring.svg": "/static/media/Spring.da6b3eb55ef973e4ae82f4132c6d2921.svg",
     "main.3f9bec2b.css.map": "/static/css/main.3f9bec2b.css.map",
-    "main.bed87888.js.map": "/static/js/main.bed87888.js.map",
+    "main.04a31a82.js.map": "/static/js/main.04a31a82.js.map",
     "453.fbc5ebc6.chunk.js.map": "/static/js/453.fbc5ebc6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3f9bec2b.css",
-    "static/js/main.bed87888.js"
+    "static/js/main.04a31a82.js"
   ]
 }
