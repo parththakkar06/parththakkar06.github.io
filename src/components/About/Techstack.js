@@ -1,6 +1,6 @@
 import React from "react";
 import { Col, Row } from "react-bootstrap";
-import { SiNextdotjs, SiSolidity } from "react-icons/si";
+import { SiNextdotjs, SiSolidity, SiNestjs, SiPostgresql } from "react-icons/si";
 import { FaAngular, FaRust } from "react-icons/fa";
 import Go from "../../Assets/TechIcons/go.svg";
 import C from "../../Assets/TechIcons/C++.svg";
@@ -43,7 +43,7 @@ function Techstack() {
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <img src={Typescript} alt="typescript" />
-        <div className="tech-icons-text">Javascript</div>
+        <div className="tech-icons-text">TypeScript</div>
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <img src={Node} alt="node" />
@@ -105,6 +105,26 @@ function Techstack() {
           <SiAndroid/>
         </div>
         <div className="tech-icons-text">Android</div>
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <div className="tech-icon-images">
+          <SiNestjs />
+        </div>
+        <div className="tech-icons-text">Nest.js</div>
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <div className="tech-icon-images">
+          <SiPostgresql />
+        </div>
+        <div className="tech-icons-text">PostgreSQL</div>
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <img src={Docker} className="tech-icon-images" alt="docker" />
+        <div className="tech-icons-text">Docker</div>
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <img src={Kafka} className="tech-icon-images" alt="kafka" />
+        <div className="tech-icons-text">Kafka</div>
       </Col>
     </Row>
   );

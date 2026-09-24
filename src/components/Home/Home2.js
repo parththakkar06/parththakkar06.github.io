@@ -42,8 +42,9 @@ function Home2() {
       </i>
       <br />
       <br />
-      Currently working as a <b className="purple">Web Developer Intern</b> at 
-      <b className="purple"> Innovate MR</b>, building production-ready applications.
+      Previously worked as a <b className="purple">Backend Developer Intern</b> at 
+      <b className="purple"> MultiQoS</b> and as a <b className="purple">Web Developer Intern</b> at 
+      <b className="purple"> Innovate MR</b>, building scalable backend microservices and full-stack applications.
     </p>
           </Col>
           <Col md={4} className="myAvtar">

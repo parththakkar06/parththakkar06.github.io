@@ -12,12 +12,15 @@ function AboutCard() {
             from <span className="purple"> Ahmedabad, Gujarat, India.</span>
             <br />
             <br />
-            I am currently working as a <span className="purple">Web Developer Intern</span> at
-            <span className="purple"> Innovate MR</span>, building production-ready MERN stack applications.
+            I have worked as a <span className="purple">Backend Developer Intern</span> at
+            <span className="purple"> MultiQoS</span>, <span className="purple">Web Developer Intern</span> at
+            <span className="purple"> Innovate MR</span>, and <span className="purple">Programming Intern</span> at
+            <span className="purple"> Peersale</span>, building scalable microservices and full-stack web applications.
             <br />
             <br />
             I am pursuing B.Tech in Computer Engineering from Indus University
-            with a CGPA of <span className="purple">9.34/10.0</span>.
+            with a CGPA of <span className="purple">9.34/10.0</span>, and I am an
+            <span className="purple"> Oracle Certified Professional</span>.
             <br />
             <br />
             Beyond development, I bring a creative edge from my design background -
